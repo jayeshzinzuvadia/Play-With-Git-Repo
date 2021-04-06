@@ -40,7 +40,7 @@ For learning GitHub and Git commands for practice
 * To add table:-<br>
     |Name|Email|Address|
     |----|-----|-------|
-    |Jayesh|jayeshzinzuvadiya099@gmail.com|Rajkot|
+    |Jayesh Zinzuvadia|jayeshzinzuvadiya099@gmail.com|Rajkot|
     |Himali|himali@gmail.com|Rajkot|
 * List:-  
   1. Item 1
