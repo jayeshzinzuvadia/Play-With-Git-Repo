@@ -35,12 +35,12 @@ For learning GitHub and Git commands
     ```
 * To undo commited changes, run:
     ```
-        git revert <commit id>      // It will be commited
-        git revert -n <commit id>   // To commit manually
+        git revert <commit id>      // It will be committed 
+        git revert -n <commit id>   // To commit manually using the command
     ```
 * To reset the changes, run:
     ```
-        git reset --hard <commit id>
+        git reset --hard <commit id>    // Dangerous operation
     ```
 * To perform branch operations, run:
     ```
@@ -51,7 +51,7 @@ For learning GitHub and Git commands
 
         git checkout <branch name>      // Switch to the specified branch
 
-        git checkout master                   // Switch to master branch        
+        git checkout master                   // Switch to master branch before deleting a branch       
         git branch -D <branch name to delete> // Delete branch name
     ```
 
@@ -62,9 +62,9 @@ This is a open source book. Read chapter 1, 2, 3 and 10 from this book. Chapter 
 3. [Git internals](https://m.youtube.com/watch?v=lG90LZotrpo)
 This is really good talk which describes git internals in elegant way.
 4. [Git Playlist](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN)  
-        * [Video 1](https://www.youtube.com/watch?v=uR6G2v_WsRA)
-        * [Video 2](https://www.youtube.com/watch?v=FyAAIHHClqI&t=1512s)
-        * [Video 3](https://www.youtube.com/watch?v=Gg4bLk8cGNo)
+        * [Video 1](https://www.youtube.com/watch?v=uR6G2v_WsRA)  
+        * [Video 2](https://www.youtube.com/watch?v=FyAAIHHClqI&t=1512s)  
+        * [Video 3](https://www.youtube.com/watch?v=Gg4bLk8cGNo)  
 5. [CodeBasics GitHub tutorials](https://youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)
 6. [Git immersion](http://gitimmersion.com/)
 7. [Open Source Contribution](https://youtu.be/OCR_7I6Bjzo)
@@ -107,7 +107,6 @@ This is really good talk which describes git internals in elegant way.
     |Name|Email|Address|
     |----|-----|-------|
     |Jayesh|jayeshzinzuvadiya099@gmail.com|Rajkot|
-    |Himali|himali@gmail.com|Rajkot|
 * List:-  
   1. Item 1
   2. Item 2
